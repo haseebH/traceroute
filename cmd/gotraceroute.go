@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/aeden/traceroute"
+	"github.com/haseebH/traceroute"
 	"net"
 )
 
